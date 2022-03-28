@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkwu"]=self["webpackChunkwu"]||[]).push([[443],{7381:function(u,n,a){a.r(n),a.d(n,{default:function(){return o}});var e=a(6252),r={class:"about"},t=(0,e._)("h1",null,"This is an about page",-1),s=[t];function c(u,n){return(0,e.wg)(),(0,e.iD)("div",r,s)}var i=a(3744);const f={},l=(0,i.Z)(f,[["render",c]]);var o=l}}]);
+//# sourceMappingURL=about-legacy.aa2406da.js.map
